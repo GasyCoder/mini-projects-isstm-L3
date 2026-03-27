@@ -1,6 +1,6 @@
 # Sujets de Mini-Projets - Génie Informatique ISSTM
 
-Ce document présente une liste de 50 mini-projets organisés par thématiques technologiques, classés par ordre de priorité (Python/IA, JS/TS, Laravel).
+Ce document présente une liste de 50 mini-projets organisés par thématiques technologiques (Python/IA, JS/TS, Laravel).
 
 ---
 
